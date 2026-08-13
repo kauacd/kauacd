@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Kauã Duarte! 👋
+ 
+Sou estudante de **Engenharia de Software (4º Semestre)** e estou em busca da minha primeira oportunidade de **Estágio** como Desenvolvedor(a) Back-end / Java.
+ 
+---
+ 
+### 🚀 Sobre Mim
+- 🎓 Graduando em Engenharia de Software.
+- ☕ Focado no aprendizado do ecossistema **Java** (POO, Spring Boot, JDBC).
+- 🧠 Praticando conceitos de arquitetura, padrões de projeto e banco de dados relacionais.
+- 🔍 Buscando uma oportunidade para estagiar, aprender com times experientes e gerar valor.
+ 
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, SQL
+- **Frameworks/Ferramentas:** Spring Boot, Git, GitHub
+- **Bancos de Dados:** MySQL 
+ 
+### 📁 Principais Projetos
+- ☕ **[Nome do Projeto Java 1](link-do-repositorio):** Breve descrição de 1 linha sobre o que o projeto faz.
 
-<!--
-**kauacd/kauacd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+ 
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/kau%C3%A3-cardoso-duarte-8b8297363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **E-mail:** kaua.cardoso.duarte@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
