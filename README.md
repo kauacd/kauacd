@@ -16,7 +16,7 @@ Sou estudante de **Engenharia de Software (4º Semestre)** e estou em busca da m
 - **Bancos de Dados:** MySQL 
  
 ### 📁 Principais Projetos
-- ☕ **[Nome do Projeto Java 1](link-do-repositorio):** Breve descrição de 1 linha sobre o que o projeto faz.
+- ☕ **[Locadora de Carros  Java Web ](https://github.com/kauacd/locadora-de-carros-java):** Permite o usuário fazer locação de carros e ao adm adicionar carros e controlar as locações.
 
 ---
  
