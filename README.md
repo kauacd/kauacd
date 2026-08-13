@@ -16,7 +16,7 @@ Sou estudante de **Engenharia de Software (4º Semestre)** e estou em busca da m
 - **Bancos de Dados:** MySQL 
  
 ### 📁 Principais Projetos
-- ☕ **[Locadora de Carros  Java Web ](https://github.com/kauacd/locadora-de-carros-java):** Permite o usuário fazer locação de carros e ao adm adicionar carros e controlar as locações.
+- ☕ **[Locadora de Carros  Java Web ](https://github.com/kauacd/locadora-de-carros-java):** Permite ao usuário fazer locação de carros e ao adm adicionar carros e controlar as locações.
 
 ---
  
