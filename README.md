@@ -14,7 +14,7 @@ Sou estudante de **Engenharia de Software (4º Semestre)** e estou em busca da m
 - **Linguagens:** Java, SQL
 - **Frameworks/Ferramentas:** Spring Boot, Git, GitHub
 - **Bancos de Dados:** MySQL 
- ### 📊 Estatísticas do GitHub <!-- Card de Estatísticas Gerais (Usando o servidor Extended atualizado) --><p align="center"><img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" /><!-- Card de Linguagens Mais Usadas --><img height="180" src="https://vercel.app" alt="Linguagens mais usadas" /></p>
+
 ### 📁 Principais Projetos
 - ☕ **[Locadora de Carros  Java Web ](https://github.com/kauacd/locadora-de-carros-java):** Permite ao usuário fazer locação de carros e ao adm adicionar carros e controlar as locações.
 
